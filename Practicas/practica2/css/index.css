@@ -10,12 +10,33 @@
     font-size: 25px;
 }
 
+.titulo4 {
+    font-size: 35px;
+}
+
 p {
     font-size: 20px;
 }
 
 .fondo1 {
     background-color: #2ab8ac;
+}
+
+.fondo2 {
+    background-color: #ffab52;
+}
+
+.fondo3 {
+    background-color: #9c55a5;
+}
+
+.fondo4 {
+    background-color: #cce033;
+}
+
+footer {
+    /* arriba/abajo primeros valores y los segundos valores izquierda y derecha */
+    padding: 30px 0;
 }
 
 /* Distancia de la información */
@@ -25,3 +46,4 @@ p {
 .container-fluid {
     padding: 80px 0px;
 }
+
