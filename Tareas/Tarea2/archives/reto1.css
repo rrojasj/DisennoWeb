@@ -1,0 +1,72 @@
+.banner {
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../imgs/dw_tarea2.1.1.svg");
+    background-color: #a0dbf2;
+    background-blend-mode: luminosity;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+    height: 100%;
+}
+
+header {
+    background-color: #fff;
+    color: darkslategrey;
+    font-weight: bolder;
+}
+
+header a {
+    text-decoration: none;
+    padding: 30px 15px;
+    color: darkslategrey;
+    
+}
+
+header h2 {
+    float: left;
+}
+
+header img {
+    float: right;
+    padding-top: 5px;
+}
+
+button {
+    background-color: rgb(167, 31, 31) !important;
+    border-color: rgb(167, 31, 31) !important;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 0 !important;
+    padding: 3px 25px !important;
+    align-items: center !important;
+}
+
+.title-text {
+    color: rgb(167, 31, 31);
+}
+
+.title-line {
+    border-top: 10px solid rgb(167, 31, 31);
+    width: 130px;
+    padding-bottom: 10px;
+}
+
+.title1 {
+    font-size: 30px;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+.title2 {
+    font-size: 22px;
+}
+
+footer {
+    background-color: rgb(167, 31, 31);
+    color: white;
+    padding: 30px ;
+}
+
+
