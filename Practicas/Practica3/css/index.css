@@ -1,0 +1,14 @@
+.titulo1 {
+    font-weight: bolder;
+}
+
+.banner {
+    background-image: url("../imagenes/banner1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.container-fluid1 {
+    padding-top: 210px;
+    padding-bottom: 200px;
+}
