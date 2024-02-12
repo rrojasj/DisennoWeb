@@ -1,14 +1,62 @@
+body {
+    overflow-x: hidden;
+}
+
 .titulo1 {
     font-weight: bolder;
 }
 
-.banner {
+.banner1 {
     background-image: url("../imagenes/banner1.jpg");
     background-size: cover;
     background-position: center;
 }
 
+.banner2 {
+    background-image: url("../imagenes/banner2.jpg");
+    background-size: cover;
+    background-position: center;
+    /* Efecto Parallax*/
+    background-attachment: fixed;
+}
+
 .container-fluid1 {
     padding-top: 210px;
     padding-bottom: 200px;
+}
+
+.container-fluid2 {
+    padding: 35px 0px;
+}
+
+.container-fluid3 {
+    padding: 50px 0px;
+}
+
+.container-fluid4 {
+    padding: 140px 0px;
+}
+
+.container-fluid4 {
+    padding: 100px 0px;
+}
+
+
+.titulo2 {
+    font-size: 40px;
+    color: #fff;
+}
+
+.titulo3 {
+    font-size: 50px;
+    color: #000;
+}
+
+.fondo1 {
+    background-color: #e5d96b;
+}
+
+i {
+    font-size: 60px;
+    color: #e5d96b;
 }
