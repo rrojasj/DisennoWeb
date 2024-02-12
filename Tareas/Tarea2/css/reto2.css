@@ -11,8 +11,8 @@ p {
 button {
     background-color: orange !important;
     border-color: orange !important;
-    padding: 3% 10% !important; /* Adjust percentages as needed */
-    font-size: 3vw !important; /* Adjust font size using viewport width */
+    /* padding: 3% 10% !important; /* Ajustar los porcentajes tanto como sea necesario */
+    /* font-size: 2vw !important; /* Ajustar el tamaño de la fuente utilizando viewport width */
 }
 
 .title1 {
