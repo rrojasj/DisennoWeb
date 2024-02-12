@@ -42,9 +42,16 @@ i {
     color: #fff;
     background-color: #ED0500;
     border-color: #ED0500;
+    
 }
 
 .span-fw {
     font-weight: bolder;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #f06392;
+    border-color: #f06392;
 }
 
