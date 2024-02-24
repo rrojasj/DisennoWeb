@@ -29,3 +29,7 @@ h1, h2 {
 .btn {
     border-radius: 60px !important;
 }
+
+.btn-outline-light:hover {
+    color: darkgrey !important;
+}

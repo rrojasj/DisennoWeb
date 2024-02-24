@@ -1,9 +1,9 @@
 [class^="imghvr-"],
 [class*=" imghvr-"] {
-    background-color: red !important;
+    background-color: rgba(159, 136, 136, 0.3) !important;
 }
 
 [class^="imghvr-"] figcaption,
 [class*=" imghvr-"] figcaption {
-    background-color: grey !important;
+    background-color: rgba(159, 136, 136, 0.3) !important;
 }
