@@ -1,15 +1,25 @@
-.space1 {
-    padding: 20px 0px;
+.banner-index {
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../imgs/dw_t2_index.jpg');
 }
 
-.space2 {
-    padding: 15px 0px;
+.espacio {
+    padding: 1100px 0;
 }
 
-.float-r {
-    float: right;
+
+.banner-index h1 {
+    font-size: 50px;
+    color: aliceblue;
 }
 
-.float-l {
-    float: left;
+.btn-general {
+    padding: 25px 0;
+}
+
+.btn-primary {
+    width: 200px;
 }
